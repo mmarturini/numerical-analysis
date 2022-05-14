@@ -4,7 +4,7 @@
 
 Consider the hyper-cube $\Omega := [-1,1]^d$ in dimension `d`.
 
-Given a function $f: \Omega \mapsto R$, find $u: \Omega \mapsto R$ such that 
+Given a function $ f: \Omega \mapsto R$, find $u: \Omega \mapsto R $ such that 
 
 $
 \Delta u  + u = f, \text{ in } \Omega
